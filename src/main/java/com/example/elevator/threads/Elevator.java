@@ -6,10 +6,6 @@ import com.example.elevator.services.ElevatorService;
 import jakarta.inject.Inject;
 import org.jboss.logging.Logger;
 
-//import java.util.ArrayList;
-//
-//import static java.lang.Thread.sleep;
-
 public class Elevator implements Runnable {
 //    @Inject
 //    Logger log;
